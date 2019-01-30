@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/drjzrh756/image/upload/v1526462152/d4crnqcekiztfed763av.png",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
@@ -13,10 +13,10 @@
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "galangdj@gmail.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "4234324324",
+      "videoid": "311602900",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
       "slidertext1": "Crystal Park",
